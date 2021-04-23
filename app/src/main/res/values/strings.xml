@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidEjercicioRecyclerView</string>
+    <string name="images_folder">file:///android_asset/images/</string>
+</resources>

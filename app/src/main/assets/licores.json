@@ -1,0 +1,12 @@
+{
+"status":"success",
+"licores":[
+{"nombre":"Bulleit Bourbon","tipo":"Bourbon","pais":"EEUU","presentacion":"Botella 750ml","foto":"bulleit.png","precio":"21990"},
+{"nombre":"Ole Smokey Harley Davidson","tipo":"Whisky","pais":"EEUU","presentacion":"Botella 750ml","foto":"ole-smokey.jpg","precio":"24990"},
+{"nombre":"Sky Blue","tipo":"Vodka","pais":"EEUU","presentacion":"Botella 750ml","foto":"skyy-vodka.jpg","precio":"8990"},
+{"nombre":"Freixenet Cordon Negro","tipo":"Cava","pais":"España","presentacion":"Botella 750ml","foto":"freixenet.jpg","precio":"11990"},
+{"nombre":"Casa Silva Los Lingues Cavernet Sauvignon","tipo":"Vino","pais":"Chile","presentacion":"Botella 750ml","foto":"casasilva.jpg","precio":"10990"},
+{"nombre":"Cuvee Des Trolls","tipo":"Cerveza","pais":"Bélgica","presentacion":"Botella 330ml","foto":"cuveedestrolls.png","precio":"4990"},
+{"nombre":"Austral Calafate","tipo":"Cerveza","pais":"Chile","presentacion":"Botella 330ml","foto":"austral_calafate.jpg","precio":"21990"},
+]
+}
